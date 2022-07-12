@@ -1,0 +1,6 @@
+index:
+    path: /
+    controller: App\Controller\SpaController::index
+spa_api:
+    path: /spa_api
+    controller: App\Controller\SpaController::spa_api
